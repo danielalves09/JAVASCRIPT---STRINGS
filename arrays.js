@@ -95,3 +95,4 @@ frutas.forEach(function (fruta) {
 
     console.log(fruta);
 })
+
